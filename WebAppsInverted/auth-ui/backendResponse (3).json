@@ -11,7 +11,7 @@
   "alreadyValidatedAccount": "Your account is already validated. Please sign in.",
   "invalidClientId": "The provided client ID is invalid.",
   "notFoundClientId": "Your client ID could not found.",
-  "redirectUriMismatch": "The provided redirect URI does not match with the redirect URI provided in the client ID details.",
+  "redirectUriMismatch": "The provided redirect URI does not  with the redirect URI provided in the client ID details.",
   "redirectUriWithoutSsl": "Redirect uri without SSL-encryption is not allowed for implicit flow.",
   "redirectUriInvalid": "The provided redirect URI is invalid.",
   "trialLicenseFailed": "Failed to obtain a trial license.",
