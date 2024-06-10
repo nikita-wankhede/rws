@@ -15,8 +15,8 @@
   "redirectUriWithoutSsl": "Redirect uri without SSL-encryption is not allowed for implicit flow.",
   "redirectUriInvalid": "The provided redirect URI is invalid.",
   "trialLicenseFailed": "Failed to obtain a trial license.",
-  "requestedScopeExceedsClientScope": "Invalid value for scope: Cannot request permissions that are not set for this client ID.",
+  "requestedScopeExceedsClientScope": "Invalid for scope: Cannot request permissions that are not set for this client ID.",
   "permissionsNotAllowedImplicitGrantFlow": "This app requests permission to access your account data. This can only be requested using the authorization code flow. Please inform the developer to use the appropriate flow.",
-  "grantAccessNotAllowed": "Grant access is not allowed"
+  "grantAccessNotAllowed": "Grant access is not allowed",
 "new":"new"
 }
